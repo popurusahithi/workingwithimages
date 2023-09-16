@@ -1,5 +1,4 @@
-# workingwithimages
-
+# Working with images
 
 ## Image data
 - [dorie.mp4](https://cs.fit.edu/~eribeiro/teaching/cse5683_new/assignments/workingwithimages/testdata/dorie.mp4)
